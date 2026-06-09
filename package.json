@@ -91,7 +91,7 @@
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.35.1",
     "unocss": "0.65.4",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.6"
   },
   "packageManager": "pnpm@10.12.4"
 }
