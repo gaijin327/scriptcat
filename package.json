@@ -45,9 +45,9 @@
     "react-joyride": "^2.9.3",
     "react-router-dom": "^7.6.3",
     "string-similarity-js": "^2.1.4",
-    "uuid": "^11.1.0",
+    "uuid": "^14.0.0",
     "webdav": "^5.8.0",
-    "yaml": "^2.8.0"
+    "yaml": "^2.9.1"
   },
   "devDependencies": {
     "@crowdin/cli": "^4.9.0",
@@ -82,7 +82,7 @@
     "jsdom": "^26.1.0",
     "jszip": "^3.10.1",
     "mock-xmlhttprequest": "^8.4.1",
-    "postcss": "^8.5.6",
+    "postcss": "^8.5.23",
     "postcss-loader": "^8.1.1",
     "prettier": "^3.6.2",
     "react-refresh": "^0.17.0",
@@ -91,7 +91,7 @@
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.35.1",
     "unocss": "0.65.4",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.6"
   },
   "packageManager": "pnpm@10.12.4"
 }
